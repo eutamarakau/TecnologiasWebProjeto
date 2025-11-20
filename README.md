@@ -1,10 +1,10 @@
 # TecnologiasWebProjeto
-# 🌿 EcoStore
+# EcoStore
 Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS, Bootstrap 5 e JavaScript. O objetivo do projeto é criar um site responsivo, organizado e funcional com uso real de componentes e scripts.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5  
 - CSS3 (styles.css)  
 - Bootstrap 5  
@@ -13,7 +13,7 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 /
 ├── index.html
 ├── maisVendidos.html
@@ -34,37 +34,37 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 📌 Páginas do Site
+## Páginas do Site
 
-### 🏠 **Home (index.html)**
+### **Home (index.html)**
 - Banner principal  
 - Cards de produtos  
 - Layout responsivo  
 
-### ⭐ **Mais Vendidos (maisVendidos.html)**
+### **Mais Vendidos (maisVendidos.html)**
 - Lista de produtos com destaque  
 - Cards e badges (Bootstrap)
 
-### 🆕 **Novidades (novidades.html)**
+### **Novidades (novidades.html)**
 - Produtos novos  
 - Efeito hover nos cards  
 
-### 📦 **Produto (produto.html)**
+### **Produto (produto.html)**
 - Imagem grande  
 - Descrição  
 - Preço  
 - Botão “Adicionar ao Carrinho”
 
-### 🛒 **Carrinho (carrinho.html)**
+### **Carrinho (carrinho.html)**
 - Lista de itens  
 - Resumo da compra  
 
-### 🔐 **Login (formLogin.html)**
+### **Login (formLogin.html)**
 - Formulário responsivo  
 - Validação JavaScript  
 - Botão habilitado somente quando campos são preenchidos  
 
-### 📝 **Cadastro (formUsuario.html)**
+### **Cadastro (formUsuario.html)**
 - Formulário funcional  
 - Script `cadastro.js`:
   - Exibe alerta  
@@ -73,7 +73,7 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 🎨 Identidade Visual
+## Identidade Visual
 - Paleta em tons de verde  
 - Interface limpa e moderna  
 - Fonte **Poppins**  
@@ -82,7 +82,7 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 🧠 Funcionalidades JavaScript
+## Funcionalidades JavaScript
 - Validação no login  
 - Reset + alerta no cadastro  
 - Manipulação de DOM  
@@ -91,7 +91,7 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 - Layout mobile-first  
 - Grid do Bootstrap  
 - Media queries no CSS  
@@ -99,7 +99,7 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## ✔ Requisitos do Projeto Atendidos
+## Requisitos do Projeto Atendidos
 - [x] Estrutura HTML responsiva  
 - [x] CSS global personalizado  
 - [x] Bootstrap 5 + Icons  
@@ -112,6 +112,4 @@ Loja virtual fictícia desenvolvida como projeto front-end, utilizando HTML, CSS
 
 ---
 
-## 📌 Como Executar
-Basta abrir qualquer arquivo `.html` no navegador.  
-Não requer instalação de dependências.
+
