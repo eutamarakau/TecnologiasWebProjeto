@@ -11,10 +11,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Redirecionar depois de 1 segundo 
         setTimeout(() => {
-             window.location.href = "index.html";
+             window.location.href = "formLogin.html";
          }, 1000);
     });
 });
+
 
 
 
