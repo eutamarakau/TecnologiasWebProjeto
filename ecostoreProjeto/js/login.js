@@ -1,4 +1,3 @@
-// JS para o formulário de login
 document.addEventListener("DOMContentLoaded", () => {
     const formLogin = document.getElementById("formLogin");
 
@@ -6,6 +5,8 @@ document.addEventListener("DOMContentLoaded", () => {
         event.preventDefault();
 
         alert("Login realizado com sucesso! ");
+
+        form.reset();
 
         // Redirecionar depois de 1 segundo
         setTimeout(() => {
